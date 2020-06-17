@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="Content-Language" content="tr">
     <meta charset="utf-8">
-    <title>Php Deneme Kursu</title>
+    <title>Php Dersleri - www.servetozturk.com</title>
     <link type="text/css" rel="stylesheet" href="genel.css">
     <script type="text/javascript" Language="javascript" src="genel.js"></script>
   </head>
